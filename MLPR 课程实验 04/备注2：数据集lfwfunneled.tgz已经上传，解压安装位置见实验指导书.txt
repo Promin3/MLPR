@@ -1,0 +1,4 @@
+
+把 lfwfunneled.tgz 拷贝到 C:\Users\Administrator\scikit_learn_data\中，“解压到当前目录”，确认：
+
+在 C:\Users\Administrator\scikit_learn_data\lfw_home\lfw_funneled 中，有 5760 项目（除11个txt说明文件外，其余为5749个人的一共13233幅人脸图像）
